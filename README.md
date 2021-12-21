@@ -1,2 +1,9 @@
-# yapaySinir
- Bil Sistem Lab
+# Bil. Sistem Lab 
+ 
+## Yapay Sinir Ağları
+
+Program Çıktısı
+
+![çıktı](Screenshot.png)
+
+> Ekran Görüntüsü
