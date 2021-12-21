@@ -2,7 +2,7 @@
  
 ## Yapay Sinir Ağları
 
-Program Çıktısı
+**Program Çıktısı**
 
 ![çıktı](Screenshot.png)
 
