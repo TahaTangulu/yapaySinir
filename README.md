@@ -6,4 +6,8 @@ Program Çıktısı
 
 ![çıktı](Screenshot.png)
 
-> Ekran Görüntüsü
+> 1. Ekran Görüntüsü
+
+![çıktı2](Screenshot_2.png)
+
+> 2. Ekran Görüntüsü
