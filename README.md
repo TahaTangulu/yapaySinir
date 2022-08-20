@@ -1,4 +1,4 @@
-# Bil. Sistem Lab 
+# Neural Networks
  
 ## Yapay Sinir Ağları
 
